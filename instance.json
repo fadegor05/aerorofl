@@ -5,5 +5,44 @@
   "loader_version": "",
   "minecraft_version": "1.21.1",
   "image_url": "https://raw.githubusercontent.com/fadegor05/aerorofl/main/logo.png",
-  "containers": []
+  "containers": [
+    {
+      "content_type": "mods",
+      "content": [
+        {
+          "name": "Create",
+          "image_url": "https://cdn.modrinth.com/data/LNytGWDc/61d716699bcf1ec42ed4926a9e1c7311be6087e2_96.webp",
+          "type": "both",
+          "mod_id": "create",
+          "file_id": "6.0.10+mc1.21.1",
+          "source": "modrinth",
+          "from": "",
+          "file": "create-1.21.1-6.0.10.jar",
+          "url": "https://cdn.modrinth.com/data/LNytGWDc/versions/UjX6dr61/create-1.21.1-6.0.10.jar"
+        },
+        {
+          "name": "Sable",
+          "image_url": "https://cdn.modrinth.com/data/T9PomCSv/8c0a8c64c9a5a8d446d0aa23d244cb9b52314a1d.png",
+          "type": "both",
+          "mod_id": "sable",
+          "file_id": "1.2.2+mc1.21.1",
+          "source": "modrinth",
+          "from": "",
+          "file": "sable-neoforge-1.21.1-1.2.2.jar",
+          "url": "https://cdn.modrinth.com/data/T9PomCSv/versions/3FMsUjO4/sable-neoforge-1.21.1-1.2.2.jar"
+        },
+        {
+          "name": "Create Aeronautics",
+          "image_url": "https://cdn.modrinth.com/data/oWaK0Q19/f66b5589924884ffd81acb27f3ccb775867a962e_96.webp",
+          "type": "both",
+          "mod_id": "create-aeronautics",
+          "file_id": "YhZLrAFC",
+          "source": "modrinth",
+          "from": "",
+          "file": "create-aeronautics-bundled-1.21.1-1.2.1.jar",
+          "url": "https://cdn.modrinth.com/data/oWaK0Q19/versions/YhZLrAFC/create-aeronautics-bundled-1.21.1-1.2.1.jar"
+        }
+      ]
+    }
+  ]
 }
