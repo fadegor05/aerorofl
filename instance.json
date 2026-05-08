@@ -41,6 +41,61 @@
           "from": "",
           "file": "create-aeronautics-bundled-1.21.1-1.2.1.jar",
           "url": "https://cdn.modrinth.com/data/oWaK0Q19/versions/YhZLrAFC/create-aeronautics-bundled-1.21.1-1.2.1.jar"
+        },
+        {
+          "name": "Create Big Cannons",
+          "image_url": "https://cdn.modrinth.com/data/GWp4jCJj/39d228c7abac7bb782db7d3f203a24beb164455f_96.webp",
+          "type": "both",
+          "mod_id": "create-big-cannons",
+          "file_id": "bsGaXKEd",
+          "source": "modrinth",
+          "from": "",
+          "file": "createbigcannons-5.11.3+mc.1.21.1.jar",
+          "url": "https://cdn.modrinth.com/data/GWp4jCJj/versions/bsGaXKEd/createbigcannons-5.11.3%2Bmc.1.21.1.jar"
+        },
+        {
+          "name": "Create: Radars",
+          "image_url": "https://cdn.modrinth.com/data/BLu2Yqfq/d2e206a0bbee73647a9ebf99607abbae5a8960c7_96.webp",
+          "type": "both",
+          "mod_id": "create-radars",
+          "file_id": "0.4.8-1.21.1",
+          "source": "modrinth",
+          "from": "",
+          "file": "create_radar-0.4.8-1.21.1.jar",
+          "url": "https://cdn.modrinth.com/data/BLu2Yqfq/versions/3MbtX7qD/create_radar-0.4.8-1.21.1.jar"
+        },
+        {
+          "name": "Sodium",
+          "image_url": "https://cdn.modrinth.com/data/AANobbMI/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp",
+          "type": "both",
+          "mod_id": "sodium",
+          "file_id": "mc1.21.1-0.6.13-neoforge",
+          "source": "modrinth",
+          "from": "",
+          "file": "sodium-neoforge-0.6.13+mc1.21.1.jar",
+          "url": "https://cdn.modrinth.com/data/AANobbMI/versions/Pb3OXVqC/sodium-neoforge-0.6.13%2Bmc1.21.1.jar"
+        },
+        {
+          "name": "FerriteCore",
+          "image_url": "https://cdn.modrinth.com/data/uXXizFIs/222a126f26f8f9ae1eb339f3b767677f18bff31f_96.webp",
+          "type": "both",
+          "mod_id": "ferrite-core",
+          "file_id": "7.0.3-neoforge",
+          "source": "modrinth",
+          "from": "",
+          "file": "ferritecore-7.0.3-neoforge.jar",
+          "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/x7kQWVju/ferritecore-7.0.3-neoforge.jar"
+        },
+        {
+          "name": "Lithium",
+          "image_url": "https://cdn.modrinth.com/data/gvQqBUqZ/bcc8686c13af0143adf4285d741256af824f70b7_96.webp",
+          "type": "both",
+          "mod_id": "lithium",
+          "file_id": "mc1.21.1-0.15.3-neoforge",
+          "source": "modrinth",
+          "from": "",
+          "file": "lithium-neoforge-0.15.3+mc1.21.1.jar",
+          "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/RXHf27Wv/lithium-neoforge-0.15.3%2Bmc1.21.1.jar"
         }
       ]
     }
