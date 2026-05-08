@@ -96,6 +96,17 @@
           "from": "",
           "file": "lithium-neoforge-0.15.3+mc1.21.1.jar",
           "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/RXHf27Wv/lithium-neoforge-0.15.3%2Bmc1.21.1.jar"
+        },
+        {
+          "name": "Ritchie's Projectile Library",
+          "image_url": "https://cdn.modrinth.com/data/B3pb093D/4ce6318148468d8052271da2257230632e5e6847_96.webp",
+          "type": "both",
+          "mod_id": "rpl",
+          "file_id": "2.1.2",
+          "source": "modrinth",
+          "from": "",
+          "file": "ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar",
+          "url": "https://cdn.modrinth.com/data/B3pb093D/versions/hZ6B2Z0x/ritchiesprojectilelib-2.1.2%2Bmc.1.21.1-neoforge.jar"
         }
       ]
     }
